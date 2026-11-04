@@ -4,5 +4,5 @@ def countdown(n):
     else:
         print(n)
         countdown(n - 1)
-print(countdown(-1))
+print(countdown(10))
      
